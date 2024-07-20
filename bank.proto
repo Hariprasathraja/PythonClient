@@ -1,5 +1,7 @@
 syntax="proto3";
 
+package com.demo.app;
+
 message AccountDetails{
   int32 accountnumber=1;
   string name=2;
