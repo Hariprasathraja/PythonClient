@@ -1,2 +1,3 @@
 /bank_pb2.py
-/bank_pb2_grpc.py
+/bank_pb2_grpc.py*.pyc
+__pycache__/
